@@ -40,8 +40,10 @@ footer{
 h3{
     font-weight: 700;
     font-size: 21px;
+    color: hsl(218, 44%, 22%)
 }
 p{
     font-weight: 400;
     font-size: 15px;
+    color:  hsl(216, 15%, 48%)    ;
 }
